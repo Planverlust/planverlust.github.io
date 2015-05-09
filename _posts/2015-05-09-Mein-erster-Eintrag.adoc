@@ -1,0 +1,10 @@
+= Mein erster Eintrag
+
+Ich bin ja ganz aufgeregt. Gleich zwei Dinge dazugelernt
+
+* Die Möglichkeit, mit einem einfachen *Git*-Server zu blogggen.
+* *AsciiDoc*, das wohl Vorteile gegenüber Markdown hat
+
+Die Frage ist noch, ob ich das irgendwie für unser Firmen-Wiki hinbekommen würde, nur mit Git, ohne GitHub. Demnächst mehr auf diesem Sender...
+
+image:https://assets-cdn.github.com/images/modules/dashboard/bootcamp/octocat_repo.png[]
