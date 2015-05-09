@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "planverlust",
-    "repositoryName": "planverlust.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Saga"
-  }
-}
+{"meta":{"username":"planverlust","repositoryName":"planverlust.github.io","branch":"master"},"site":{"title":"Planverlust Software GitHub Blog","description":"Der nicht-legitime Nachfolger von Obi-Wan's Global Hypertext Gateway ;-)","url":"https://planverlust.github.io"},"socialnetwork":{},"theme":{"name":"Saga","url":"//planverlust.github.io/themes/Saga"}}
